@@ -1,6 +1,6 @@
-# Contributing to ic.news
+# Contributing to IC News
 
-Thank you for your interest in contributing to ic.news! We’re building a decentralized cryptocurrency news platform and welcome help from developers, writers, and enthusiasts.
+Thank you for your interest in contributing to IC News! We’re building a decentralized cryptocurrency news platform and welcome help from developers, writers, and enthusiasts.
 
 ## How to Contribute
 
@@ -15,4 +15,4 @@ Thank you for your interest in contributing to ic.news! We’re building a decen
 - Write clear, maintainable code with comments where necessary.
 - Test your changes before submitting (if applicable).
 
-We appreciate your efforts in making ic.news a reality!
+We appreciate your efforts in making IC News a reality!

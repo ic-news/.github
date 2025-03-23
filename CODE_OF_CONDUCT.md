@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We, the ic.news community, pledge to create an open and welcoming environment for everyone, regardless of background, identity, or experience. We value collaboration and mutual respect in building a decentralized news platform.
+We, the IC News community, pledge to create an open and welcoming environment for everyone, regardless of background, identity, or experience. We value collaboration and mutual respect in building a decentralized news platform.
 
 ## Expected Behavior
 

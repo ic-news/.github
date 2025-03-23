@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for ic.news
+about: Suggest an idea for IC News
 title: "[FEATURE] "
 labels: enhancement
 assignees: ""

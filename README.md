@@ -1,6 +1,6 @@
-# Welcome to ic.news
+# Welcome to IC News
 
-ic.news is a cryptocurrency media and news platform aiming to become the world's leading decentralized crypto news platform. Powered by the Internet Computer (ICP) and artificial intelligence (AI), we are building a transparent, personalized, and community-governed news ecosystem. Our mission is to create a fully realized Web3 news platform that empowers users and redefines how cryptocurrency news is delivered.
+IC News is a cryptocurrency media and news platform aiming to become the world's leading decentralized crypto news platform. Powered by the Internet Computer (ICP) and artificial intelligence (AI), we are building a transparent, personalized, and community-governed news ecosystem. Our mission is to create a fully realized Web3 news platform that empowers users and redefines how cryptocurrency news is delivered.
 
 ## Our Vision
 
@@ -13,7 +13,7 @@ ic.news is a cryptocurrency media and news platform aiming to become the world's
 
 Stay updated and join our growing community through the following channels:
 
-- **Website**: [ic.news](https://ic.news)
+- **Website**: [IC News](https://ic.news)
 - **X (Twitter)**: [@ic*news*](https://x.com/ic_news_)
 - **Telegram Global**: [t.me/ic_news_hub](https://t.me/ic_news_hub)
 - **Telegram Japanese**: [t.me/ic_news_ja](https://t.me/ic_news_ja)
@@ -21,6 +21,6 @@ Stay updated and join our growing community through the following channels:
 
 ## About Us
 
-ic.news is built on the Internet Computer (ICP), a revolutionary blockchain platform, and integrates AI to provide cutting-edge news solutions. We are committed to advancing the adoption of decentralized technologies in media and fostering a global community of crypto enthusiasts.
+IC News is built on the Internet Computer (ICP), a revolutionary blockchain platform, and integrates AI to provide cutting-edge news solutions. We are committed to advancing the adoption of decentralized technologies in media and fostering a global community of crypto enthusiasts.
 
 Join us as we redefine the future of cryptocurrency news!
